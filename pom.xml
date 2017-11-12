@@ -19,6 +19,7 @@
 
     <modules>
         <module>01-session</module>
+        <module>02-attack</module>
     </modules>
 
     <properties>
